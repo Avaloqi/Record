@@ -18,9 +18,9 @@
     pip install pyinstaller
 
 ### 靠谱点儿的资料
-[PyInstaller安装和使用教程](http://c.biancheng.net/view/2690.html). 
-[PyInstaller用法](https://blog.csdn.net/jirryzhang/article/details/78881512). 
-[pyinstaller系列之五](https://blog.csdn.net/u012219045/article/details/114841287). 
+[PyInstaller安装和使用教程](http://c.biancheng.net/view/2690.html)  
+[PyInstaller用法](https://blog.csdn.net/jirryzhang/article/details/78881512)  
+[pyinstaller系列之五](https://blog.csdn.net/u012219045/article/details/114841287)  
 
 ### Mac打包踩坑
 使用mac打包时带 -w 命令时会有问题，应用无法正常使用， 无配置文件无弹窗有机会能用  
