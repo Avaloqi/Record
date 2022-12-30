@@ -3,7 +3,7 @@
 创建新环境：
     python -m venv new_venv  
 开启环境： 
-    . new_venv/vin/activate  
+    . new_venv/bin/activate  
 关闭环境： 
     deactivate
 
